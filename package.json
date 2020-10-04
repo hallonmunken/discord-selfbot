@@ -1,7 +1,7 @@
 {
   "name": "selfbotclient",
   "version": "1.0.0",
-  "description": "An server side for an selfbot.",
+  "description": "An server side for a selfbot.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
